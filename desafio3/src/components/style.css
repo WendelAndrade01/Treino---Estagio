@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(100, 100, 100);
+}
+
+div {
+    margin: 50px auto 10px auto;
+    width: 500px;
+    height: 500px;
+    background-color: rgb(209, 94, 17);
+    box-shadow: 3px 5px 10px rgb(41, 41, 41);
+}
+
+div h1 {
+    text-align: center;
+    padding-top: 20px;
+}
+
+p {
+    font-size: 20px;
+    padding: 30px;
+}
