@@ -7,7 +7,7 @@ const HelloWorld_02 = () => {
 	let fullMsg = msg.length;
 
 	for (let i = 0; i <= fullMsg; i++) {
-		if (i == fullMsg) {
+		if (i === fullMsg) {
 			fullMsg = msg;
 			return (
 				<div>
