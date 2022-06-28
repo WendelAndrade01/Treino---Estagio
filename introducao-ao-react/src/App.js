@@ -1,4 +1,5 @@
 import "./App.css";
+import HelloWorld_07 from "./components/HelloWord_07";
 import HelloWorld from "./components/HelloWorld";
 import HelloWorld_02 from "./components/HelloWorld_02";
 import HelloWorld_03 from "./components/HelloWorld_03";
@@ -14,6 +15,7 @@ function App() {
       <HelloWorld_04 />
       <HelloWorld_05 />
       <HelloWorld_06 />
+      <HelloWorld_07 hello="Hello World!" data="2022//06/28" />
     </div>
   );
 }
